@@ -20,5 +20,28 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "아트센터": {
+      "style": "stone",
+      "wall": "#dcdcd8",
+      "glass": "#4a5660",
+      "frame": "#b4b6b6"
+    },
+    "체육관": {
+      "style": "tan",
+      "wall": "#e2d6b8",
+      "glass": "#4f6070",
+      "frame": "#c9c0a8",
+      "hip": true,
+      "roof": "#4a8ad0"
+    },
+    "국동생활관": {
+      "style": "brick",
+      "wall": "#9a5a44",
+      "glass": "#44525a",
+      "frame": "#e6e2da"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
